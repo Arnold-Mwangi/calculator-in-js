@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+}
+.formstyle{
+    width:300px;
+    height:330px;
+    margin: 20px auto;
+    border-radius:5px;
+    padding: 20px;
+    text-align: center;
+    background: rgb(59, 60, 70);
+}
+h1{
+    text-align: center;
+    padding: 23px;
+    background-color: blue;
+    color: antiquewhite;
+}
+input:hover{
+    background-color: black;
+    color:white;
+}
+
+.btn1{
+    width:50px;
+    height:50px;
+    margin:2px;
+    font-size:25px;
+    cursor: pointer;
+    background-color:rgb(197, 197, 197);
+}
+.back{
+    width:50px;
+    height:50px;
+    margin:2px;
+    font-size:25px;
+    cursor: pointer;
+    background-color:rgb(197, 197, 197);
+}
+.textview{
+    width:223px;
+    margin:5px;
+    font-size:25px;
+    padding:5px;
+    background-color: lightgreen;
+}
